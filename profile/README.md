@@ -2,9 +2,9 @@
 
 # 🎭 Sarcasm Detection Research
 
-> This organization hosts my PhD research projects.
-> I study how to enable computers to understand sarcasm and irony, where intended meaning does not align directly with literal wording and depends on context, subjectivity, and cultural interpretation.
-> Xiyuan Gao · University of Groningen · 2021--2026
+> This organization hosts my PhD research projects on sarcasm and irony understanding in human--machine interaction.  
+> My work investigates how computers can move beyond literal language processing to recognize intended meaning from context, prosody, multimodal signals, subjectivity, and cultural interpretation.  
+> Xiyuan Gao · University of Groningen · 2021–2026
 
 ---
 
@@ -16,44 +16,61 @@
 - Linguistically informed AI
 - Human-centered human--machine interaction
 
+## Start Here
+- For datasets: begin with **MCSD 1.0**
+- For speech-based sarcasm modeling: see **Speech-based Sarcasm Detection**
+- For multimodal text+audio modeling: see **AMuSeD**
+- For an end-to-end sarcasm recognition tool using acoustic, textual, emotional, and sentiment cues: see **SarcEmotiq**
+- For LLM/MLLM-based sarcasm understanding: see **Multimodal LLM Sarcasm Understanding**
+
 ## Projects
 
-### 🔊 AMuSeD
-AMuSeD: attentive multimodal sarcasm detection using text and audio, including bi-modal data augmentation.
-- **Repo:** [sarcasm-speech](link)
-- **Demo:** 🚀 [Try it live](huggingface-spaces-link)
-
 ### 🎥 MCSD 1.0 dataset
-MCSD 1.0 dataset repository for multimodal Chinese sarcasm data, documentation, access instructions, and annotation-related materials.
-- **Repo:** [sarcasm-multimodal](link)
-- **Dataset:** [e.g., MUStARD]
+The first large-scale dataset for sarcasm detection in Mandarin Chinese, combining audio, text, and visual modalities. Built to push sarcasm research beyond English.
+- **Repo:** [MCSD 1.0 wiki](https://github.com/sarcasm-detection-research/MCSD)
+- **Dataset:** [MCSD 1.0 DataverseNL] (https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/A0NLTQ)
+- 📄 **Paper:** [Interspeech 2025](https://doi.org/10.1121/2.0001918](https://www.isca-archive.org/interspeech_2025/gao25f_interspeech.html)
+- 🌐 **Languages:** English
 
-### 🎥 Chinese Multimodal Sarcasm Detection
-Experiments on multilingual and cross-lingual sarcasm detection, including transfer settings and evaluation pipelines.
-- **Repo:** [sarcasm-crosslingual](link)
-- **Languages:** [e.g., English, Dutch, Mandarin]
+### 🔊 SarcEmotiq 
+Can a machine hear sarcasm? SarcEmotiq detects sarcasm in English audio by combining what is said, how it sounds, and how it feels. It works out of the box on MUStARD++ and supports retraining on your own data.
+- 🔗 **Repo:** [SarcEmotiq](https://github.com/sarcasm-detection-research/SarcEmotiq)
+- 🚀 **Live Demo:** [Coming soon](huggingface-spaces-link)
+- 📄 **Paper:** [JASA 2022](https://pubs.aip.org/asa/poma/article/54/1/060002/3305267/)
+- 🌐 **Languages:** English
+  
+### 🇨🇳 Chinese Multimodal Sarcasm Detection
+
+- 🔗 **Repo:** `coming soon`
+- 🚀 **Live Demo:** [Coming soon](huggingface-spaces-link)
+- 🌐 **Languages:** Chinese
 
 ### 🌍 Multimodal LLM Sarcasm understanding
-Leverages VisCPM, an open-source MLLM that supports multimodal (textual and visual) and multilingual (Chinese and English) conversational tasks to tackle non-literal language understanding. 
-- **Repo:** [sarcasm-crosslingual](link)
-- **Languages:** [e.g., English, Dutch, Mandarin]
 
-### SarcEmotiq 
-SarcEmotiq is a deep learning-based tool for recognizing sarcasm in English audio. 
-- **Repo:** [SarcEmotiq](link)
-- **Demo:** 🚀 [Try it live](huggingface-spaces-link)
+- 🔗 **Repo:** `coming soon`
+- 🚀 **Live Demo:** [Coming soon](huggingface-spaces-link)
+- 🖼️ **Slides:** 'coming soon'
+- 🌐 **Languages:** Chinese, English
 
-### Speech-based Sarcasm Detection 
-- **Repo:** [SarcEmotiq](link)
-- **Demo:** 🚀 [Try it live](huggingface-spaces-link)
+### 🎧 AMuSeD
+
+- 🔗 **Repo:** `coming soon`
+- 🚀 **Live Demo:** [Coming soon](huggingface-spaces-link)
+- 🖼️ **Paper:** [Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11271857)
+- 🌐 **Languages:** English
   
+### Speech-based Sarcasm Detection 
+- 🔗 **Repo:** `coming soon`
+- 🚀 **Live Demo:** [Coming soon](huggingface-spaces-link)
+- 🖼️ **Paper:** [Interspeech 2022](https://www.isca-archive.org/interspeech_2022/gao22f_interspeech.html)
+- 🌐 **Languages:** English
 ---
 
 ## Publications
-- [Paper title](link) · Conference · Year
+- Full list on Google Scholar (see below)
 
 ## Contact
 - E-mail: xiyuan.gao1022@gmail.com 
-- Google Scholar: https://scholar.google.com/citations?user=Gwl55gQAAAAJ&hl=en
-- LinkedIn: https://www.linkedin.com/in/xiyuangao/
-- [Hugging Face]
+- Google Scholar: [Xiyuan Gao] (https://scholar.google.com/citations?user=Gwl55gQAAAAJ&hl=en)
+- LinkedIn: [Xiyuan Gao] (https://www.linkedin.com/in/xiyuangao/)
+- Hugging Face: [Hugging Face]
