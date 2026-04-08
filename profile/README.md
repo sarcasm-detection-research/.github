@@ -28,8 +28,8 @@
 ### 🎥 MCSD 1.0 dataset
 The first large-scale dataset for sarcasm detection in Mandarin Chinese, combining audio, text, and visual modalities. Built to push sarcasm research beyond English.
 - **Repo:** [MCSD 1.0 wiki](https://github.com/sarcasm-detection-research/MCSD)
-- **Dataset:** [MCSD 1.0 DataverseNL] (https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/A0NLTQ)
-- 📄 **Paper:** [Interspeech 2025](https://doi.org/10.1121/2.0001918](https://www.isca-archive.org/interspeech_2025/gao25f_interspeech.html)
+- 📦 **Dataset:** [MCSD 1.0 DataverseNL](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/A0NLTQ)
+- - 📄 **Paper:** [Interspeech 2025](https://www.isca-archive.org/interspeech_2025/gao25f_interspeech.html)
 - 🌐 **Languages:** English
 
 ### 🔊 SarcEmotiq 
@@ -56,7 +56,7 @@ Can a machine hear sarcasm? SarcEmotiq detects sarcasm in English audio by combi
 
 - 🔗 **Repo:** `coming soon`
 - 🚀 **Live Demo:** [Coming soon](huggingface-spaces-link)
-- 🖼️ **Paper:** [Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11271857)
+- 🖼️ **Paper:** [Transactions on Affective Computing 2026](https://ieeexplore.ieee.org/document/11271857)
 - 🌐 **Languages:** English
   
 ### Speech-based Sarcasm Detection 
