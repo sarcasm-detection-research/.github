@@ -27,7 +27,7 @@
 
 ### 🎥 MCSD 1.0 dataset
 The first large-scale dataset for sarcasm detection in Mandarin Chinese, combining audio, text, and visual modalities. Built to push sarcasm research beyond English.
-- **Repo:** [MCSD 1.0 wiki](https://github.com/sarcasm-detection-research/MCSD)
+- **Repo:** [MCSD 1.0 wiki](https://github.com/sarcasm-detection-research/MCSD/wiki)
 - 📦 **Dataset:** [MCSD 1.0 DataverseNL](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/A0NLTQ)
 - - 📄 **Paper:** [Interspeech 2025](https://www.isca-archive.org/interspeech_2025/gao25f_interspeech.html)
 - 🌐 **Languages:** English
