@@ -1,7 +1,4 @@
 
-
-# 🎭 Sarcasm Detection Research
-
 > This organization hosts my PhD research projects on sarcasm and irony understanding in human-machine interaction.  
 > My work investigates how computers can move beyond literal language processing to recognize intended meaning from context, prosody, multimodal signals, subjectivity, and cultural interpretation.  
 > Xiyuan Gao · University of Groningen · 2021–2026
