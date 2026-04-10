@@ -2,7 +2,7 @@
 
 # 🎭 Sarcasm Detection Research
 
-> This organization hosts my PhD research projects on sarcasm and irony understanding in human--machine interaction.  
+> This organization hosts my PhD research projects on sarcasm and irony understanding in human-machine interaction.  
 > My work investigates how computers can move beyond literal language processing to recognize intended meaning from context, prosody, multimodal signals, subjectivity, and cultural interpretation.  
 > Xiyuan Gao · University of Groningen · 2021–2026
 
@@ -19,7 +19,7 @@
 ## Start Here
 - For datasets: begin with **MCSD 1.0**
 - For speech-based sarcasm modeling: see **Speech-based Sarcasm Detection**
-- For multimodal text+audio modeling: see **AMuSeD**
+- For multimodal text+audio modeling with synthesized data augmentation: see **AMuSeD**
 - For an end-to-end sarcasm recognition tool using acoustic, textual, emotional, and sentiment cues: see **SarcEmotiq**
 - For LLM/MLLM-based sarcasm understanding: see **Multimodal LLM Sarcasm Understanding**
 
@@ -30,7 +30,7 @@ The first large-scale dataset for sarcasm detection in Mandarin Chinese, combini
 - **Repo:** [MCSD 1.0 wiki](https://github.com/sarcasm-detection-research/MCSD/wiki)
 - 📦 **Dataset:** [MCSD 1.0 DataverseNL](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/A0NLTQ)
 - - 📄 **Paper:** [Interspeech 2025](https://www.isca-archive.org/interspeech_2025/gao25f_interspeech.html)
-- 🌐 **Languages:** English
+- 🌐 **Languages:** Chinese Mandarin
 
 ### 🔊 SarcEmotiq 
 Can a machine hear sarcasm? SarcEmotiq detects sarcasm in English audio by combining what is said, how it sounds, and how it feels. It works out of the box on MUStARD++ and supports retraining on your own data.
@@ -42,35 +42,28 @@ Can a machine hear sarcasm? SarcEmotiq detects sarcasm in English audio by combi
 ### 🇨🇳 Chinese Multimodal Sarcasm Detection
 
 - 🔗 **Repo:** `coming soon`
-- 🚀 **Live Demo:** [Coming soon](huggingface-spaces-link)
 - 🌐 **Languages:** Chinese
 
 ### 🌍 Multimodal LLM Sarcasm understanding
 
 - 🔗 **Repo:** `coming soon`
-- 🚀 **Live Demo:** [Coming soon](huggingface-spaces-link)
 - 🖼️ **Slides:** 'coming soon'
 - 🌐 **Languages:** Chinese, English
 
 ### 🎧 AMuSeD
 
 - 🔗 **Repo:** `coming soon`
-- 🚀 **Live Demo:** [Coming soon](huggingface-spaces-link)
 - 🖼️ **Paper:** [Transactions on Affective Computing 2026](https://ieeexplore.ieee.org/document/11271857)
 - 🌐 **Languages:** English
   
 ### Speech-based Sarcasm Detection 
 - 🔗 **Repo:** `coming soon`
-- 🚀 **Live Demo:** [Coming soon](huggingface-spaces-link)
 - 🖼️ **Paper:** [Interspeech 2022](https://www.isca-archive.org/interspeech_2022/gao22f_interspeech.html)
 - 🌐 **Languages:** English
 ---
 
-## Publications
-- Full list on Google Scholar (see below)
 
 ## Contact
 - E-mail: xiyuan.gao1022@gmail.com 
 - Google Scholar: [Xiyuan Gao] (https://scholar.google.com/citations?user=Gwl55gQAAAAJ&hl=en)
 - LinkedIn: [Xiyuan Gao] (https://www.linkedin.com/in/xiyuangao/)
-- Hugging Face: [Hugging Face]
